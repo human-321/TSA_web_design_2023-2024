@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 561">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke-width: 10px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-family: BerlinSansFB-Reg, 'Berlin Sans FB';
+        font-size: 207px;
+      }
+
+      .cls-4 {
+        stroke-width: 15px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <path class="cls-1" d="m330.5,99c40.47,0,78.51,15.76,107.13,44.37,28.61,28.61,44.37,66.66,44.37,107.13s-15.76,78.51-44.37,107.13c-28.61,28.61-66.66,44.37-107.13,44.37s-78.51-15.76-107.13-44.37c-28.61-28.61-44.37-66.66-44.37-107.13s15.76-78.51,44.37-107.13c28.61-28.61,66.66-44.37,107.13-44.37m0-26c-98.03,0-177.5,79.47-177.5,177.5s79.47,177.5,177.5,177.5,177.5-79.47,177.5-177.5-79.47-177.5-177.5-177.5h0Z"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <polygon class="cls-1" points="353 45 308 45 308 74 353 74 353 45 353 45"/>
+    <polygon class="cls-1" points="536 228 507 228 507 273 536 273 536 228 536 228"/>
+    <polygon class="cls-1" points="353 427 308 427 308 456 353 456 353 427 353 427"/>
+    <polygon class="cls-1" points="154 228 125 228 125 273 154 273 154 228 154 228"/>
+    <polygon class="cls-1" points="460.34 89.34 439.84 109.84 471.66 141.66 492.16 121.16 460.34 89.34 460.34 89.34"/>
+    <polygon class="cls-1" points="471.66 359.34 439.84 391.16 460.34 411.66 492.16 379.84 471.66 359.34 471.66 359.34"/>
+    <polygon class="cls-1" points="190.34 359.34 169.84 379.84 201.66 411.66 222.16 391.16 190.34 359.34 190.34 359.34"/>
+    <polygon class="cls-1" points="201.66 89.34 169.84 121.16 190.34 141.66 222.16 109.84 201.66 89.34 201.66 89.34"/>
+  </g>
+  <g id="Layer_6" data-name="Layer 6">
+    <text class="cls-3" transform="translate(543 203.04)"><tspan x="0" y="0">Pinetree</tspan><tspan x="0" y="248.4">Makerspaces</tspan></text>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <g>
+      <rect class="cls-2" x="317.5" y="308" width="27" height="70.39"/>
+      <polygon class="cls-4" points="331.15 191.85 262.8 310.23 399.5 310.23 331.15 191.85"/>
+      <polygon class="cls-4" points="331.3 156.84 273.11 257.63 389.5 257.63 331.3 156.84"/>
+      <polygon class="cls-4" points="330.61 136 289.72 206.83 371.5 206.83 330.61 136"/>
+    </g>
+  </g>
+</svg>
